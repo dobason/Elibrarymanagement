@@ -1,0 +1,5 @@
+﻿Build started at 3:11 PM...
+1>------ Build started: Project: Elibrarymanagement, Configuration: Debug Any CPU ------
+1>  Elibrarymanagement -> C:\Users\Lenovo\Downloads\Elibrarymanagement\Elibrarymanagement\bin\Elibrarymanagement.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:11 PM and took 00.500 seconds ==========
