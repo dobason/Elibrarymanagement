@@ -1,10 +1,13 @@
 # eLibrary Management System  
 
 ## Overview  
-The **eLibrary Management System** is a web application built using **ASP.NET** for managing digital libraries. It provides features to manage books, users, borrowing records, and other library-related activities. The system aims to simplify library operations and enhance the user experience for librarians and users.  
+The **eLibrary Management System** is a web application built using **ASP.NET** for managing digital libraries. It provides features to manage books, users, borrowing records, and other library-related activities. The system aims to simplify library operations and enhance the user experience for librarians and users.
+
+## Screenshots  
 ![image](https://github.com/user-attachments/assets/c73c5192-172e-447a-88ee-1c030f82f096)
   
 ![image](https://github.com/user-attachments/assets/e68e81f5-55b8-44af-9066-8f55b84b5220)
+
 ## Features  
 
 ### For Librarians/Admin  
@@ -54,9 +57,6 @@ To run the project, ensure the following are installed:
 1. Open the application in your browser.  
 2. Log in as an admin or register as a user.  
 3. Use the admin panel to manage library resources or borrow books as a user.  
-
-## Screenshots  
-
 
 ## Contribution  
 Contributions are welcome! To contribute:  
