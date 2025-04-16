@@ -79,8 +79,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact  
 For questions or support, please contact:  
 - **Your Name**  
-- Email: [yourname@example.com](mailto:yourname@example.com)  
-- GitHub: [yourusername](https://github.com/yourusername)  
+- Email: [son2522004@gmail.com](mailto:son2522004@gmail.com)  
+- GitHub: [dobason](https://github.com/dobason)  
 
 ---
 
